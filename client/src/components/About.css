@@ -1,0 +1,27 @@
+/* .card {
+    background-color:  rgb(95, 93, 91);
+    color: #ffffff;
+
+    box-shadow: 0 0 10px rgb(58, 54, 48);
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    background-color:  rgb(134, 134, 134);
+    color: #000;
+  } */
+
+.img{
+    background-color:  rgb(95, 93, 91);
+    color: #ffffff;
+
+    box-shadow: 0 0 10px rgb(58, 54, 48);
+    transition: transform 0.3s;
+  }
+
+.img:hover {
+    transform: scale(1.05);
+    background-color:  rgb(134, 134, 134);
+    color: #000;
+  }

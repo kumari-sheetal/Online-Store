@@ -1,0 +1,27 @@
+
+  /* ----------- */
+  .categories .box{
+    background: #fff;
+    box-shadow: var(--box-shadow);
+    border-radius: 0.5rem;
+    padding: 3rem 2rem;
+    text-align: center;
+    outline: var(--outline);
+    outline-offset: -1rem;
+  }
+  .categories .row{
+    justify-content: space-evenly
+
+
+  }
+  .categories .box:hover{
+    outline-offset: 0;
+    outline: var(--outline-hover);
+  }
+ 
+  .categories .box img {
+    height: 15rem;
+    margin: 1rem 0;
+    object-fit: cover; /* Ensures the image covers the container */
+    max-width: 100%; /* Ensures the image does not exceed its container's width */
+  }
