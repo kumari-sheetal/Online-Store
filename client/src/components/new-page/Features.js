@@ -12,7 +12,7 @@ const Features = () => {
             <div className="row " style={{ gap: "1cm", width: "100%" }}>
               <div className="box" style={{ background: "white" }}>
                 <img src="images/feature-img-1.png" alt="" />
-                <h3>Fresh and Organic</h3>
+                <h3 className="card-text">Fresh and Organic</h3>
                 <p>
                   Transforming campus shopping experience, one swift delivery at
                   a time

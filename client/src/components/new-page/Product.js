@@ -134,7 +134,7 @@ const Product = () => {
           </div>{" "}
         </div>
         <div className="card m-3 " style={{ width: "8cm", height: "8cm" }}>
-          <div className="card">
+          <div className="card" style={{ width: "8cm", height: "8cm" }}>
             <img
               src="/images/b.jpeg"
               alt="Our Story"

@@ -1215,6 +1215,6 @@ body {
 .heading {
   text-align: center;
   font-size: 3.5rem;
-  color: var(--black);
+  /* color: var(--black); */
   padding: 2rem 0 3rem 0;
 }

@@ -264,3 +264,35 @@ input.dark-mode-checkbox:checked ~ body {
   
 }
 .dark-mode .category-name{  color: white;}
+
+
+
+.dark-mode .features {
+    background-color: #222;
+  }
+
+  
+  .dark-mode .features .box h3,
+  .features .box p {
+    color: rgb(0, 0, 0);
+  }
+
+
+  /* ----products---- */
+  /* .dark-mode  .categories.box {
+    background: black;
+  } */
+  
+  .dark-mode .categories .box h3,.dark-mode
+  .categories .box p {
+    color: rgb(0, 0, 0);
+  }
+
+  /* ------- reviews--- */
+  .dark-mode .reviews .box {
+    background: black;
+  }
+  
+  .dark-mode .reviews .box p {
+    color: rgb(0, 0, 0);
+  }
